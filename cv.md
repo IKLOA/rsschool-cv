@@ -33,3 +33,7 @@ I'm fond of dealing with frontend, scrutinizing new technologies. I am responsib
 September 2016 – June 2020
 * BSUIR, Engineering and psychological support of information technologies
 September 2020 – June 2023
+
+## 8. Languages
+* Russian – native
+* English – pre-intermediate
